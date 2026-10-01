@@ -28,4 +28,8 @@ LeetCode - https://leetcode.com/u/cool852/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cool8522/LeetCode_Pratham/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/cool8522/LeetCode_Pratham/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
