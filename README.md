@@ -8,6 +8,7 @@ LeetCode - https://leetcode.com/u/cool852/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cool8522/LeetCode_Pratham/tree/master/0169-majority-element) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/cool8522/LeetCode_Pratham/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
